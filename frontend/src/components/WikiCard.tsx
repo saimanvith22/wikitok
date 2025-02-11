@@ -66,7 +66,7 @@ export function WikiCard({ article }: WikiCardProps) {
                         {!imageLoaded && (
                             <div className="absolute inset-0 bg-gray-900 animate-pulse" />
                         )}
-                        <div className="absolute inset-0 bg-gradient-to-b from-black/40 to-black/80" />
+                        <div className="absolute inset-0 bg-gradient-to-b from-black/20 to-black/60" />
                     </div>
                 ) : (
                     <div className="absolute inset-0 bg-gray-900" />
