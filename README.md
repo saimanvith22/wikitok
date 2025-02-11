@@ -44,10 +44,6 @@ Check it out here at [wikitok.vercel.app](https://wikitok.vercel.app) or [wikito
 
 **Note:** This is the original WikiTok web project, not affiliated with wikitok.net or the independently developed WikiTok mobile apps for iPhone and Android.
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=IsaacGemal/wikitok&type=Date)](https://star-history.com/#IsaacGemal/wikitok&Date)
-
 ## Contributing
 
 1. Fork the repository
@@ -57,3 +53,7 @@ Check it out here at [wikitok.vercel.app](https://wikitok.vercel.app) or [wikito
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=IsaacGemal/wikitok&type=Date)
