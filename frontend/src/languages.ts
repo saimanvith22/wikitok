@@ -321,4 +321,11 @@ export const LANGUAGES = [
     api: "https://zh.wikipedia.org/w/api.php?",
     article: "https://zh.wikipedia.org/wiki/",
   },
+  {
+    id: "ks",
+    name: "कॉशुर / کٲشُر",
+    flag: "https://hatscripts.github.io/circle-flags/flags/in.svg",
+    api: "https://ks.wikipedia.org/w/api.php?",
+    article: "https://ks.wikipedia.org/wiki/",
+  },
 ];
