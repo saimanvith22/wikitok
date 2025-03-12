@@ -161,6 +161,13 @@ export const LANGUAGES = [
     article: "https://ko.wikipedia.org/wiki/",
   },
   {
+    id: "ml",
+    name: "മലയാളം",
+    flag: "https://hatscripts.github.io/circle-flags/flags/in.svg",
+    api: "https://ml.wikipedia.org/w/api.php?",
+    article: "https://ml.wikipedia.org/wiki/",
+  },
+  {
     id: "nl",
     name: "Nederlands",
     flag: "https://hatscripts.github.io/circle-flags/flags/nl.svg",
